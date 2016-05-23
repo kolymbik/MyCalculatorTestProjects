@@ -1,0 +1,28 @@
+{
+  "uid" : "bbc2162a-7326-4891-a627-d2b59992cc4c",
+  "name" : "testCalc[0]",
+  "title" : "Test calc [0]",
+  "time" : {
+    "start" : 1463972739177,
+    "stop" : 1463972739188,
+    "duration" : 11
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "steps" : [ ],
+  "attachments" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Without feature"
+  }, {
+    "name" : "story",
+    "value" : "Without story"
+  } ],
+  "parameters" : [ ]
+}

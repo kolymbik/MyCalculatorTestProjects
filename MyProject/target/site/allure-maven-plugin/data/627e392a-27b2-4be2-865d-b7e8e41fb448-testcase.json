@@ -1,0 +1,31 @@
+{
+  "uid" : "627e392a-27b2-4be2-865d-b7e8e41fb448",
+  "name" : "testCalc[4]",
+  "title" : "Тест калькулятора",
+  "time" : {
+    "start" : 1464019421371,
+    "stop" : 1464019421371,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "Тестовое задание по Автоматизации Тестирования (основа Java,  набираем Software Developer in Test)",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "steps" : [ ],
+  "attachments" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Without feature"
+  }, {
+    "name" : "story",
+    "value" : "Without story"
+  } ],
+  "parameters" : [ ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid" : "b602c591-83b9-4a16-a497-b86f1c694470",
+  "name" : "testCalc[2]",
+  "title" : "Test calc [2]",
+  "time" : {
+    "start" : 1463972739193,
+    "stop" : 1463972739193,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "steps" : [ ],
+  "attachments" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Without feature"
+  }, {
+    "name" : "story",
+    "value" : "Without story"
+  } ],
+  "parameters" : [ ]
+}

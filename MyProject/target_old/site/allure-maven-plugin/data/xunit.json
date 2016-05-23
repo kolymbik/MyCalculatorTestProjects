@@ -1,0 +1,92 @@
+{
+  "time" : {
+    "start" : 1463972739158,
+    "stop" : 1463972739201,
+    "duration" : 43
+  },
+  "testSuites" : [ {
+    "uid" : "d0572e50-6960-40d4-aca4-96de55ed84bd",
+    "name" : "SberTex.CalculatorTest",
+    "title" : "Calculator test",
+    "time" : {
+      "start" : 1463972739158,
+      "stop" : 1463972739201,
+      "duration" : 43
+    },
+    "statistic" : {
+      "total" : 6,
+      "passed" : 6,
+      "skipped" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "bbc2162a-7326-4891-a627-d2b59992cc4c",
+      "name" : "testCalc[0]",
+      "title" : "Test calc [0]",
+      "time" : {
+        "start" : 1463972739177,
+        "stop" : 1463972739188,
+        "duration" : 11
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "07d4b202-1b5a-4f22-8fb1-77d16c7f80fc",
+      "name" : "testCalc[1]",
+      "title" : "Test calc [1]",
+      "time" : {
+        "start" : 1463972739192,
+        "stop" : 1463972739192,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "b602c591-83b9-4a16-a497-b86f1c694470",
+      "name" : "testCalc[2]",
+      "title" : "Test calc [2]",
+      "time" : {
+        "start" : 1463972739193,
+        "stop" : 1463972739193,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "221a6b9f-f74a-4ffb-8379-c89b9eeebff9",
+      "name" : "testCalc[3]",
+      "title" : "Test calc [3]",
+      "time" : {
+        "start" : 1463972739193,
+        "stop" : 1463972739193,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "1fd56c1d-3203-411d-b293-df37ef5b1954",
+      "name" : "testCalc[4]",
+      "title" : "Test calc [4]",
+      "time" : {
+        "start" : 1463972739194,
+        "stop" : 1463972739194,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "edb9e5b6-eaa5-4ff5-afff-d122159d949d",
+      "name" : "testCalc[5]",
+      "title" : "Test calc [5]",
+      "time" : {
+        "start" : 1463972739195,
+        "stop" : 1463972739195,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}

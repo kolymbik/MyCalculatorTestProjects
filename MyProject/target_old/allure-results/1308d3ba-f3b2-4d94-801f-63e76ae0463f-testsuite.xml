@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1464018227644" stop="1464018228277" version="1.4.4">
+    <name>SberTex.CalculatorTest</name>
+    <test-cases>
+        <test-case start="1464018227716" stop="1464018228191" status="passed">
+            <name>testCalc[0]</name>
+            <title>Тест калькулятора</title>
+            <description type="text">Тестовое задание по Автоматизации Тестирования (основа Java,  набираем Software Developer in Test)</description>
+            <steps>
+                <step start="1464018228173" stop="1464018228183" status="passed">
+                    <name>testCalc</name>
+                    <title>Получение результата {3} числа {0} на {1}</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="тилимилитрям-ПК"/>
+                <label name="thread" value="3792@тилимилитрям-ПК.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1464018228208" stop="1464018228219" status="passed">
+            <name>testCalc[1]</name>
+            <title>Тест калькулятора</title>
+            <description type="text">Тестовое задание по Автоматизации Тестирования (основа Java,  набираем Software Developer in Test)</description>
+            <steps>
+                <step start="1464018228218" stop="1464018228218" status="passed">
+                    <name>testCalc</name>
+                    <title>Получение результата {3} числа {0} на {1}</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="тилимилитрям-ПК"/>
+                <label name="thread" value="3792@тилимилитрям-ПК.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1464018228223" stop="1464018228235" status="passed">
+            <name>testCalc[2]</name>
+            <title>Тест калькулятора</title>
+            <description type="text">Тестовое задание по Автоматизации Тестирования (основа Java,  набираем Software Developer in Test)</description>
+            <steps>
+                <step start="1464018228235" stop="1464018228235" status="passed">
+                    <name>testCalc</name>
+                    <title>Получение результата {3} числа {0} на {1}</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="тилимилитрям-ПК"/>
+                <label name="thread" value="3792@тилимилитрям-ПК.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1464018228240" stop="1464018228245" status="passed">
+            <name>testCalc[3]</name>
+            <title>Тест калькулятора</title>
+            <description type="text">Тестовое задание по Автоматизации Тестирования (основа Java,  набираем Software Developer in Test)</description>
+            <steps>
+                <step start="1464018228244" stop="1464018228244" status="passed">
+                    <name>testCalc</name>
+                    <title>Получение результата {3} числа {0} на {1}</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="тилимилитрям-ПК"/>
+                <label name="thread" value="3792@тилимилитрям-ПК.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1464018228248" stop="1464018228253" status="passed">
+            <name>testCalc[4]</name>
+            <title>Тест калькулятора</title>
+            <description type="text">Тестовое задание по Автоматизации Тестирования (основа Java,  набираем Software Developer in Test)</description>
+            <steps>
+                <step start="1464018228253" stop="1464018228253" status="passed">
+                    <name>testCalc</name>
+                    <title>Получение результата {3} числа {0} на {1}</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="тилимилитрям-ПК"/>
+                <label name="thread" value="3792@тилимилитрям-ПК.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1464018228257" stop="1464018228264" status="passed">
+            <name>testCalc[5]</name>
+            <title>Тест калькулятора</title>
+            <description type="text">Тестовое задание по Автоматизации Тестирования (основа Java,  набираем Software Developer in Test)</description>
+            <steps>
+                <step start="1464018228264" stop="1464018228264" status="passed">
+                    <name>testCalc</name>
+                    <title>Получение результата {3} числа {0} на {1}</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="тилимилитрям-ПК"/>
+                <label name="thread" value="3792@тилимилитрям-ПК.main"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

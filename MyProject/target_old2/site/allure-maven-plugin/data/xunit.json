@@ -1,0 +1,92 @@
+{
+  "time" : {
+    "start" : 1464018660897,
+    "stop" : 1464018661004,
+    "duration" : 107
+  },
+  "testSuites" : [ {
+    "uid" : "1e6786d3-f128-4811-9987-b1dadb352443",
+    "name" : "SberTex.CalculatorTest",
+    "title" : "Calculator test",
+    "time" : {
+      "start" : 1464018660897,
+      "stop" : 1464018661004,
+      "duration" : 107
+    },
+    "statistic" : {
+      "total" : 6,
+      "passed" : 6,
+      "skipped" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "fcfb7e0d-a624-4ee0-bd32-573df1eed130",
+      "name" : "testCalc[0]",
+      "title" : "Тест калькулятора",
+      "time" : {
+        "start" : 1464018660934,
+        "stop" : 1464018660990,
+        "duration" : 56
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "e054cab3-952f-41f2-bf00-7c129c63c815",
+      "name" : "testCalc[1]",
+      "title" : "Тест калькулятора",
+      "time" : {
+        "start" : 1464018660991,
+        "stop" : 1464018660991,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "a173b005-4dbb-492f-a5d5-f2511990a03c",
+      "name" : "testCalc[2]",
+      "title" : "Тест калькулятора",
+      "time" : {
+        "start" : 1464018660992,
+        "stop" : 1464018660992,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "14f3c523-71cc-4bb6-90cc-2e6e3a87b078",
+      "name" : "testCalc[3]",
+      "title" : "Тест калькулятора",
+      "time" : {
+        "start" : 1464018660992,
+        "stop" : 1464018660992,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "0104e54e-851a-4cf4-a1a7-8b37a8eaabc6",
+      "name" : "testCalc[4]",
+      "title" : "Тест калькулятора",
+      "time" : {
+        "start" : 1464018660993,
+        "stop" : 1464018660993,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "aa8d49a3-8a09-419c-94ed-aa08dd72f42a",
+      "name" : "testCalc[5]",
+      "title" : "Тест калькулятора",
+      "time" : {
+        "start" : 1464018660994,
+        "stop" : 1464018660994,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}
